@@ -1,3 +1,13 @@
+COMMITS TERMINADOS
+1.Angular inicial +  componente ----COMNPLETADO
+2.Peticiones GET/POST  funcionando-----COMPLETADO
+3.UI funcionando con  pruebas-----COMPLETADO
+
+
+
+
+
+
 # TiendaFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.4.
